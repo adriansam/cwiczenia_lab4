@@ -1,0 +1,2 @@
+informatyka, pierwsyz rok, informatyka ogolna
+[0, 1, 2, 3, 4, 5]
